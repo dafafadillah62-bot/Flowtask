@@ -1,0 +1,20 @@
+{
+  "short_name": "TaskFlow",
+  "name": "TaskFlow - Modern To-Do List",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/taskflow/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/seed/taskflow/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6366f1",
+  "background_color": "#f8fafc"
+}
